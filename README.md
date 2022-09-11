@@ -50,3 +50,8 @@
 
 <p align="center"><img src="images/Lữ Quang Minh HTML & CSS Certificate.png" width="50%"/></p>
 
+  
+## Snake eating my contribution graph
+![snake gif](https://github.com/YOUR_USERNAME/binvan789/blob/output/github-contribution-grid-snake.gif)
+
+
