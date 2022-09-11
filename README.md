@@ -28,7 +28,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png"/>
+  <img style="fill: F1C40F" src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png"/>
 </p>
 
 <table style="width:100%;">
