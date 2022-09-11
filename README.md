@@ -48,8 +48,5 @@
 
 # Certificates:
 
-<p align="center">
-  <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1">
-    <img alt="MATLAB Onramp" title="MATLAB Onramp" src="certificates/MATLAB-Onramp-certificate.png" width="300px" />
-  </a>
-</p>
+<p align="center"><img src="images/Lữ Quang Minh HTML & CSS Certificate.png" width="50%"/></p>
+
