@@ -54,6 +54,7 @@
 <p align="center"><img src="images/Lữ Quang Minh HTML & CSS Certificate.png" width="70%"/></p>
 <p align="center"><img src="images/Csharp.png" width="70%"/></p>
 <p align="center"><img src="images/CodeLearn_certification_python.png" width="70%"/></p>
+<p align="center"><img src="images/CodeLearn_certification-C.png" width="70%"/></p>
 
   
 ## Snake eating my contribution graph
