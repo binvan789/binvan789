@@ -69,6 +69,9 @@
 </p>
 
 # Projects I'm working on with Nodemy's guidance:
+  <p align="center">
+    <a href="">Click here!</a>
+  </p>
  
 ## Snake eating my contribution graph
 ![snake gif](https://github.com/binvan789/binvan789/blob/output/github-contribution-grid-snake.gif)
