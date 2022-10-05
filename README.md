@@ -70,7 +70,7 @@
 
 # Projects I'm working on with Nodemy's guidance:
   <p align="center">
-    <a href="">Click here!</a>
+    <a href="https://github.com/binvan789/Projects-I-m-working-on-with-Nodemy-s-guidance">Click here!</a>
   </p>
  
 ## Snake eating my contribution graph
