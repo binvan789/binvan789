@@ -63,8 +63,13 @@
   <a href="">
     <img alt="C# Basic" title="C# Basic" src="images/Csharp.png" width="300px" />
   </a>
+</p>
+<p align="center">
   <a href="">
     <img alt="C Basic" title="C Basic" src="images/CodeLearn_certification-C.png" width="300px" />
+  </a>
+  <a href="">
+    <img alt="C++ Basic" title="C++ Basic" src="images/CodeLearn_certification-Cpp.png" width="300px" />
   </a>
 </p>
 
