@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=binvan789&style=flat-square alt="binvan789" /></p>
 
-- ✍ I'm a student of: [Saigon University](https://sgu.edu.vn/) (SGU).
+- ✍ I'm a student of [Saigon University](https://sgu.edu.vn/) (SGU).
 
 - 🌱 I’m currently learning **Front-end.**
 
