@@ -1,8 +1,5 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=Frontend+Web+Developer;Always+learn+new+things+and+develop+yourself!;Better+and+better+each+day!" alt="Typing SVG" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=binvan789&label=Profile%20views&color=0e75b6&style=flat" alt="binvan789" /> </p>
-
-
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Website**
