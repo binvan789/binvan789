@@ -1,8 +1,9 @@
 <p align="left">
   <a href="https://github.com/binvan789">
-    <img src="https://github.com/binvan789/binvan789/blob/main/name.png" alt="Jonah Lawrence" /></a>
+    <img src="https://github.com/binvan789/binvan789/blob/main/name.png" alt="Lu Quang Minh" /></a>
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=Frontend+Web+Developer;Always+learn+new+things+and+develop+yourself!;Better+and+better+each+day!" alt="Typing SVG" /></a>
+
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Website**
