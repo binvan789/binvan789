@@ -1,7 +1,14 @@
-<a href="#" target="_blank">
-    <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
-  </a>
-  
+<h1 align="center">Hi 👋, I'm Lu Quang Minh</h1>
+<h3 align="center"><i>A passionate frontend developer from Vietnam</i></h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=binvan789&label=Profile%20views&color=0e75b6&style=flat" alt="binvan789" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binvan789" alt="binvan789" /></a> </p>
+
+- 🌱 I’m currently learning **React Native**
+
+- 💬 Ask me about **Website**
+
+- 📫 How to reach me **luminh2004@gmail.com**
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
