@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <a href="https://github.com/binvan789">
     <img src="https://github.com/binvan789/binvan789/blob/main/name.png" alt="Jonah Lawrence" /></a>
 </p>
