@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Lu Quang Minh</h1>
-<h3 align="center"><i>A passionate frontend developer from Vietnam</i></h3>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=Frontend+Web+Developer;Always+learn+new+things+and+develop+yourself!;Better+and+better+each+day!" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binvan789&label=Profile%20views&color=0e75b6&style=flat" alt="binvan789" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binvan789" alt="binvan789" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
@@ -31,12 +30,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-<a href="#" title="binvan789">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binvan789&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-</a>
-<a href="#" title="binvan789">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=binvan789&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binvan789&show_icons=true&locale=en&layout=compact" alt="binvan789" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binvan789&show_icons=true&locale=en" alt="binvan789" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binvan789&" alt="binvan789" /></p>
 </div>
 
 <br>
