@@ -66,7 +66,3 @@
 <br>
 
 
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<div align="center"><i>Better and better each day!</i></div>
-
