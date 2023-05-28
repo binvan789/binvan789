@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Website**
 
-- 📫 How to reach me **luminh2004@gmail.com**
+- 📫 How to reach me **minhlq2911@gmail.com**
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
