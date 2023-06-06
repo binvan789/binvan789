@@ -1,6 +1,6 @@
 <p align="left">
-  <a href="https://github.com/binvan789">
-    <img src="https://github.com/binvan789/binvan789/blob/main/name.png" alt="Lu Quang Minh" /></a>
+  <a href="https://github.com/minhluquang">
+    <img src="https://github.com/minhluquang/minhluquang/blob/main/name.png" alt="Lu Quang Minh" /></a>
 </p>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -36,7 +36,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="binvan789">
+  <a href="#" title="minhluquang">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhluquang&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="minhluquang">
@@ -49,17 +49,17 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-<a href="https://facebook.com/qoanminnh" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="binvan789-facebook" />
+<a href="https://facebook.com/luquangminhne" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="minhluquang-facebook" />
 </a>
 <a href="https://www.youtube.com/channel/UC9GxkWtMuOc3P1zEjNnG5_g" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="binvan789-youtube" />
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="minhluquang-youtube" />
 </a>
-<a href="https://instagram.com/yeomyung.gaebalja" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="binvan789-instagram" />
+<a href="https://instagram.com/iameokiuem" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="minhluquang-instagram" />
 </a>
-<a href="mailto:luminh2004@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="binvan789-email" />
+<a href="mailto:minhlq2911@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="minhluquang-email" />
 </a>
 </div>
 
