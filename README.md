@@ -9,7 +9,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **Website**
 
