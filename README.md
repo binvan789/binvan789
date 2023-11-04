@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Website**
+- 💬 Ask me about **Front-end**
 
 - 📫 How to reach me **minhlq2911@gmail.com**
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
