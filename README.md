@@ -9,9 +9,9 @@
 </p>
 
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NodeJS**
 
-- 💬 Ask me about **Front-end**
+- 💬 Ask me about **ReactJS - NodeJS**
 
 - 📫 How to reach me **minhlq2911@gmail.com**
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
