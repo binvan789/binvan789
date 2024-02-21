@@ -11,7 +11,7 @@
 ```json
 {
     "pronouns": "he/him",
-    "education": "Saigon University, '22",
+    "education": "Saigon University",
     "major": "Software Engineering",
     "location": "HCMC, Vietnam"
     "email": "minhlq2911@gmail.com",
